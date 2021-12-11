@@ -1,0 +1,14 @@
+E:\fellowship\DAY_23\List\List\bin\Debug\netcoreapp3.1\List.exe
+E:\fellowship\DAY_23\List\List\bin\Debug\netcoreapp3.1\List.deps.json
+E:\fellowship\DAY_23\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+E:\fellowship\DAY_23\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+E:\fellowship\DAY_23\List\List\bin\Debug\netcoreapp3.1\List.dll
+E:\fellowship\DAY_23\List\List\bin\Debug\netcoreapp3.1\List.pdb
+E:\fellowship\DAY_23\List\List\obj\Debug\netcoreapp3.1\List.csproj.AssemblyReference.cache
+E:\fellowship\DAY_23\List\List\obj\Debug\netcoreapp3.1\List.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_23\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+E:\fellowship\DAY_23\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+E:\fellowship\DAY_23\List\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_23\List\List\obj\Debug\netcoreapp3.1\List.dll
+E:\fellowship\DAY_23\List\List\obj\Debug\netcoreapp3.1\List.pdb
+E:\fellowship\DAY_23\List\List\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache
